@@ -18,6 +18,8 @@ BuildRequires:	python%{pyver}dist(pytest)
 BuildRequires:	python%{pyver}dist(pytest-asyncio)
 BuildRequires:	python%{pyver}dist(httpx)
 BuildRequires:	python%{pyver}dist(starlette)
+BuildRequires:	python%{pyver}dist(pdm-backend)
+
 
 
 %description
